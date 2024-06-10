@@ -1,2 +1,2 @@
-m!/bin/bash
+#!/bin/bash
 touch betty -rm /tmp/holbertonschool-shell/betty
