@@ -1,2 +1,3 @@
 #!/bin/bash
-yy .html /holbertonschool-shell/basics
+cp yy *.html /basics /holbertonschool-shell
+
