@@ -1,2 +1,2 @@
 #!/bin/bash
-touch hello olleh
+chmod $mode_hello olleh
