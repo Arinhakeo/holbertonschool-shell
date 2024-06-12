@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 3 iacta | head -n 1
+head -n 4 /holbertonschool-shell/io_redirections_and_filters/iacta | tail -n 1
