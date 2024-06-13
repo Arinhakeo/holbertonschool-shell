@@ -1,2 +1,2 @@
 #!/bin/bash
-sort root | uniq | sort /etc/passwd
+sort -n root | uniq -u | sort /etc/passwd
