@@ -1,2 +1,2 @@
 #!/bin/bash
-echo BEST=School | set grep BEST | printenv grep best
+unset BEST=School
