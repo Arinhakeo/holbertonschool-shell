@@ -1,2 +1,2 @@
 #!/bin/bash
-tr $PATH sort | uniq -c | sort 
+echo $PATH | tr : $'\n' | grep /| wc -l
