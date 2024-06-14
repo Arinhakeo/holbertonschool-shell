@@ -1,0 +1,2 @@
+#!/bin/bash
+tr $PATH sort | uniq -c | sort 
