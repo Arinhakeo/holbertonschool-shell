@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE=1209 \n
+export TRUEKNOWLEDGE=1209 | result=$((TRUEKNOWLEDGE+128)) | echo $result
